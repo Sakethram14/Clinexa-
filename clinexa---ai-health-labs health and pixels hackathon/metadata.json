@@ -1,0 +1,6 @@
+
+{
+  "name": "Clinexa - AI Health Labs",
+  "description": "An intelligent patient intake and clinical reasoning platform that uses Gemini AI to summarize symptoms, identify red flags, and provide structured insights for healthcare providers.",
+  "requestFramePermissions": []
+}
